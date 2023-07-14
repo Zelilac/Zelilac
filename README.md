@@ -1,5 +1,5 @@
 <div align="center">
-[![Muzan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zelilac&bg_color=000000&color=c1cae2&line=4c659e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muzan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/Zelilac/github-readme-activity-graph)
 </div>
 
 ###
