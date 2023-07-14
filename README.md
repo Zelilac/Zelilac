@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Zelilac"><img alt="Muzan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+[![Muzan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zelilac&bg_color=000000&color=c1cae2&line=4c659e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ###
